@@ -1,0 +1,27 @@
+Requirement: 2048 Game
+Submission: http://www.codeskulptor.org/#user47_dVlNJjinJPP9SIl_5.py
+------------------------------------
+
+Requirement: Nim Game
+Submission: http://www.codeskulptor.org/#user47_BZVd4ReNAJ_0.py
+------------------------------------
+
+Requirement: Tic-Tac-Toe Game (Monte-Carlo Method)
+Submission: http://www.codeskulptor.org/#user48_aUfWIrB0A7I1jTE_1.py
+------------------------------------
+
+Requirement: Pong Game (https://www.coursera.org/learn/interactive-python-1/supplement/wiv24/mini-project-description)
+Submission: http://www.codeskulptor.org/#user47_rS5yJSDo6neUyJ0.py
+------------------------------------
+
+Requirement: Memory Game (https://www.coursera.org/learn/interactive-python-2/supplement/lnYpa/mini-project-description)
+Submission: https://py2.codeskulptor.org/#user47_i1ITHCX55acOy4g.py
+------------------------------------
+
+Requirement: Black Jack Game
+Submission: https://py2.codeskulptor.org/#user47_lwsmkICfYh_0.py
+------------------------------------
+
+Requirement: Rice Rocks Game
+Submission: https://py2.codeskulptor.org/#user47_uSetq3xu3ckni3D.py
+
